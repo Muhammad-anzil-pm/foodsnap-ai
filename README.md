@@ -62,4 +62,4 @@ python main.py
 
 ### Terminal Output
 
-![Terminal Output](results\Terminal_output.png)
+![Terminal Output](results/Terminal_output.png)
