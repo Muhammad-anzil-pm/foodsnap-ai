@@ -58,7 +58,7 @@ python main.py
 
 ### Detected Food Items Preview
 
-![Detected Items](results\Food_detection.png)
+![Detected Items](results/Food_detection.png)
 
 ### Terminal Output
 
